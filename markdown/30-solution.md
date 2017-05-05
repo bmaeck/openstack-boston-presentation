@@ -32,13 +32,10 @@
 
 <!-- .slide: data-state="normal" id="communication" data-timing="120" -->
 # Improved communication
-
-TODO: replace with 4 large icons
-
-*   All new activity tracked in GitHub
-*   Cc'ing SAP on relevant historical bugs in bugzilla
-*   Shared Slack channel
-*   Joint daily standups with all engineers
+<img class="fragment" data-src="images/github-mark.png" alt="GitHub" /> <span class="fragment"> All new activity tracked in GitHub</span> <br>
+<img class="fragment" data-src="images/bugzilla.png" alt="Bugzilla" /> <span class="fragment"> Cc'ing SAP on relevant historical bugs in bugzilla</span> <br>
+<img class="fragment" data-src="images/slack.png" alt="Slack" /> <span class="fragment"> Shared Slack channel</span> <br>
+<img class="fragment" data-src="images/standup_meeting.png" alt="Standup Meeting" /> <span class="fragment"> Joint daily standups with all engineers</span> <br>
 
 Note:
 
@@ -53,11 +50,16 @@ SUSE engineers now have much better understanding of SAP pain:
 
 
 <!-- .slide: data-state="normal" id="partner-access" data-menu-title="Partner access" data-timing="120" -->
-# SAP "C-user" accounts for partners
+# Enabled remote access for partners
 
 Access to SAP network including production cloud
 
-FIXME: replace with large access icon, e.g. key
+FIXME: replace with large access icon, e.g. key  
+Maybe replace "cloud" with SAP logo
+
+<img class="fragment" data-src="images/Suse-Logo.png" alt="SUSE-Logo" />
+<img class="fragment" data-src="images/vpn.png" alt="VPN access" />
+<img class="fragment" data-src="images/suse-openstack-cloud.jpg" alt="SOC" />
 
 Note:
 
